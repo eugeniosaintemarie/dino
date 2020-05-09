@@ -1,0 +1,80 @@
+{
+  "success": true,
+  "message": "",
+  "result": {
+    "dataData": {
+      "idUser": "5dc332c90e20220e16848423",
+      "idAvatar": 2,
+      "fullUrlAvatar": "https://cms.destapp.com/uploads/_/originals/182de3ac-60dc-5107-bb74-ee741485f7f0.png",
+      "userScore": 3300,
+      "gameName": "Tapi Tap",
+      "nameUser": "monico.com",
+      "position": 1
+    },
+    "listData": [
+      {
+        "idUser": "5dc332c90e20220e16848423",
+        "idAvatar": 2,
+        "fullUrlAvatar": "https://cms.destapp.com/uploads/_/originals/182de3ac-60dc-5107-bb74-ee741485f7f0.png",
+        "userScore": 3300,
+        "gameName": "Tapi Tap",
+        "nameUser": "monico.com",
+        "position": 1
+      },
+      {
+        "idUser": "5dcb33f98215920e7b65aab4",
+        "idAvatar": 1,
+        "fullUrlAvatar": "https://cms.destapp.com/uploads/_/originals/320b31af-1aa3-5bff-ac4c-29f00da475ab.png",
+        "userScore": 160,
+        "gameName": "Tapi Tap",
+        "nameUser": "el matador",
+        "position": 2
+      },
+      {
+        "idUser": "5dc322270c1c7f0e20d4559d",
+        "idAvatar": 0,
+        "fullUrlAvatar": null,
+        "userScore": 150,
+        "gameName": "Tapi Tap",
+        "nameUser": "",
+        "position": 3
+      },
+      {
+        "idUser": "113778213388556",
+        "idAvatar": null,
+        "fullUrlAvatar": null,
+        "userScore": 100,
+        "gameName": "Tapi Tap",
+        "nameUser": "vdgdhd",
+        "position": 4
+      },
+      {
+        "idUser": "5dc45d2468496b0df9fb5cfd",
+        "idAvatar": 2,
+        "fullUrlAvatar": "https://cms.destapp.com/uploads/_/originals/182de3ac-60dc-5107-bb74-ee741485f7f0.png",
+        "userScore": 40,
+        "gameName": "Tapi Tap",
+        "nameUser": "russo",
+        "position": 5
+      },
+      {
+        "idUser": "5dc4b2ed6b10270e0272f786",
+        "idAvatar": 0,
+        "fullUrlAvatar": null,
+        "userScore": 30,
+        "gameName": "Tapi Tap",
+        "nameUser": "",
+        "position": 6
+      },
+      {
+        "idUser": "5dc45d1e5c2fa30df61330a6",
+        "idAvatar": 2,
+        "fullUrlAvatar": "https://cms.destapp.com/uploads/_/originals/182de3ac-60dc-5107-bb74-ee741485f7f0.png",
+        "userScore": 0,
+        "gameName": "Tapi Tap",
+        "nameUser": "Prueba",
+        "position": 7
+      }
+    ]
+  }
+}
