@@ -209,3 +209,15 @@ var Game = {
         }, 1500);
     }
 }
+document.querySelector('.jdn')
+    .addEventListener('onclick', () => {
+        window.location.reload(true);
+    });
+window.onload = function() {
+    const playButton = document.querySelector('.jdn')
+
+    playButton.onclick = function() {
+        window.location.reload(true)
+    }
+    
+}
